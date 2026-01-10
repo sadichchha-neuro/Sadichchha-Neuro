@@ -67,6 +67,15 @@ Jupyter notebooks covering neural concepts, receptors, and brain mechanisms.
 
 ---
 
+## Overview
+This repository contains a collection of computational neuroscience models
+exploring spiking neuron dynamics and synaptic computation. The work progresses
+from single-neuron models to dynamic synapses with short-term plasticity and
+coupled neuron–synapse circuits, emphasizing biologically meaningful yet
+computationally efficient representations of neural systems.
+
+---
+
 ## 🤝 Let’s Connect
 
 If you’re interested in neuroscience, research, or learning together, feel free to explore my repositories.
