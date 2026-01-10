@@ -15,6 +15,15 @@ My long-term goal is to pursue **research at institutes like IISER** and contrib
 
 ---
 
+## Overview
+This repository contains a collection of computational neuroscience models
+exploring spiking neuron dynamics and synaptic computation. The work progresses
+from single-neuron models to dynamic synapses with short-term plasticity and
+coupled neuron–synapse circuits, emphasizing biologically meaningful yet
+computationally efficient representations of neural systems.
+
+---
+
 ## 🧪 Research Interests
 
 - Synaptic transmission & plasticity  
@@ -64,15 +73,6 @@ Jupyter notebooks covering neural concepts, receptors, and brain mechanisms.
 - Work on neuroscience-related computational projects  
 - Prepare for research internships  
 - Pursue higher studies in neuroscience  
-
----
-
-## Overview
-This repository contains a collection of computational neuroscience models
-exploring spiking neuron dynamics and synaptic computation. The work progresses
-from single-neuron models to dynamic synapses with short-term plasticity and
-coupled neuron–synapse circuits, emphasizing biologically meaningful yet
-computationally efficient representations of neural systems.
 
 ---
 
